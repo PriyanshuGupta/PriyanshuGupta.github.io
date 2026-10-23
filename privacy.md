@@ -1,6 +1,8 @@
 ---
 title: Idle Cricket Academy – Privacy Policy
-permalink: /idle-cricket-academy/privacy/
+permalink: /privacy/
+redirect_from:
+  - /idle-cricket-academy/privacy/
 ---
 
 # Privacy Policy – Idle Cricket Academy

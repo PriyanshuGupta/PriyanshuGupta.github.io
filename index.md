@@ -10,7 +10,7 @@ Mobile games for Android.
 
 | Game | Privacy policy |
 |---|---|
-| Idle Cricket Academy | [Privacy policy](/idle-cricket-academy/privacy/) |
+| Idle Cricket Academy | [Privacy policy](/privacy/) |
 
 ## Contact
 

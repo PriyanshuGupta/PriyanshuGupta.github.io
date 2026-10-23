@@ -1,2 +1,4 @@
 title: Brilliant Studios
 description: Games by Brilliant Studios
+plugins:
+  - jekyll-redirect-from
