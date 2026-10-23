@@ -1,74 +1,85 @@
 ---
-title: Idle Cricket Academy – Privacy Policy
+title: Brilliant Studios – Privacy Policy
 permalink: /privacy/
 redirect_from:
   - /idle-cricket-academy/privacy/
+  - /splash-street/privacy/
 ---
 
-# Privacy Policy – Idle Cricket Academy
+# Privacy Policy – Brilliant Studios
 
 **Effective date:** 23 October 2026
 
-This Privacy Policy explains how Brilliant Studios ("we", "us") handles information when you play **Idle Cricket Academy** (the "App") on Android.
+This Privacy Policy explains how Brilliant Studios ("we", "us") handles information when you play our games on Android (each an "App"):
+
+- **Idle Cricket Academy**
+- **Splash Street: Holi Defense**
+
+Where something applies to only one game, it is marked.
 
 ## Summary
 
 - No account, name, email, phone number, contacts, photos, or location is asked for or collected.
 - Your game progress is saved on your device.
-- We use Google Firebase to see how the game is played and to find crashes. This uses an anonymous ID created by the App.
-- The App shows ads through Google AdMob. AdMob may use your device's Advertising ID to show and measure ads. Where the law requires it, we ask for your consent first.
+- We use Google Firebase to see how the games are played and to find crashes. This uses an anonymous ID created by the App.
+- **Idle Cricket Academy** shows ads through Google AdMob. AdMob may use your device's Advertising ID to show and measure ads. Where the law requires it, we ask for your consent first.
+- **Splash Street: Holi Defense** shows no ads.
 - We do not sell your data.
 
 ## Information we collect
 
 ### 1. Game progress (stored on your device)
-Your academy, players, money and other progress are saved only on your device. Uninstalling the App or clearing its data deletes it.
+Your progress (for example your academy, players and money in Idle Cricket Academy, or your streets, crew and stars in Splash Street: Holi Defense) is saved only on your device. Uninstalling the App or clearing its data deletes it.
 
 ### 2. Anonymous ID (Firebase Authentication)
 When the App starts, it signs in anonymously with Firebase Authentication. This creates a random user ID that is not linked to your name, email or Google account. It is used to tie analytics and crash reports to the same install.
 
 ### 3. Usage data (Firebase Analytics)
-We collect events about how the game is played, such as screens opened, buttons tapped, matches played and game progress, along with basic device information (device model, OS version, app version, language, country derived from IP). Firebase Analytics also collects the app-instance ID.
+We collect events about how the game is played, such as screens opened, buttons tapped, levels or matches played and game progress, along with basic device information (device model, OS version, app version, language, country derived from IP). Firebase Analytics also collects the app-instance ID.
 
 ### 4. Crash reports (Firebase Crashlytics)
-If the App crashes, a report with the stack trace, device model, OS version, app version and the anonymous ID is sent so we can fix the problem.
+If the App crashes or hits an error, a report with the stack trace, device model, OS version, app version and the anonymous ID is sent so we can fix the problem.
 
-### 5. Advertising (Google AdMob)
-The App shows ads served by Google AdMob. To show, limit, measure and prevent fraud on ads, AdMob may collect your device's Advertising ID, IP address, device and app information, and how you interact with ads. If you are in the European Economic Area, the UK or Switzerland, or another region where the law requires it, the App shows Google's consent form before personalised ads are shown. If you do not consent, you may still see non-personalised ads, which rely on contextual information.
+### 5. Advertising (Google AdMob) – Idle Cricket Academy only
+Idle Cricket Academy shows ads served by Google AdMob. To show, limit, measure and prevent fraud on ads, AdMob may collect your device's Advertising ID, IP address, device and app information, and how you interact with ads. If you are in the European Economic Area, the UK or Switzerland, or another region where the law requires it, the App shows Google's consent form before personalised ads are shown. If you do not consent, you may still see non-personalised ads, which rely on contextual information.
 
 You can change your ad choices at any time:
 - In the App, from the privacy options in Settings (where available).
 - On Android, under **Settings › Google › Ads**, where you can reset or delete your Advertising ID.
 
 ### 6. Notifications
-The App may schedule local notifications on your device (for example, when something in your academy is ready). These are created on the device and no personal data is sent for them. You can turn them off in the App's settings or in Android settings.
+The App may schedule local notifications on your device (for example, when something in your game is ready). These are created on the device and no personal data is sent for them. You can turn them off in the App's settings (where available) or in Android settings.
+
+### 7. App updates – Splash Street: Holi Defense
+Splash Street: Holi Defense uses Google Play's in-app updates to tell you when a new version is available. This check is handled by Google Play on your device.
 
 ## How we use information
-- To run and improve the game and balance its gameplay.
+- To run and improve the games and balance their gameplay.
 - To find and fix crashes and bugs.
-- To show ads, including personalised ads where you have consented.
+- In Idle Cricket Academy, to show ads, including personalised ads where you have consented.
 
 We do not sell or rent your information.
 
 ## Third-party services
-The App uses these Google services, which process data according to their own policies:
+The Apps use these Google services, which process data according to their own policies:
 - Firebase Analytics, Firebase Crashlytics, Firebase Authentication – [Firebase privacy and security](https://firebase.google.com/support/privacy)
-- Google AdMob – [How Google uses information from apps that use its services](https://policies.google.com/technologies/partner-sites)
+- Google AdMob (Idle Cricket Academy) – [How Google uses information from apps that use its services](https://policies.google.com/technologies/partner-sites)
+- Google Play in-app updates (Splash Street: Holi Defense)
 - [Google Privacy Policy](https://policies.google.com/privacy)
 
 ## Data retention
 Analytics data is kept for the retention period set in Firebase (up to 14 months). Crash reports are kept for up to 90 days. Data on your device stays until you uninstall the App or clear its data.
 
 ## Data security
-Data sent to Firebase is encrypted in transit (HTTPS/TLS).
+Data sent to Firebase and Google is encrypted in transit (HTTPS/TLS).
 
 ## Your choices and data deletion
 - You can stop all data collection at any time by uninstalling the App.
-- You can withdraw or change ad consent from the App's privacy options, and reset or delete your Advertising ID in Android settings.
-- To ask us to delete analytics data linked to your install, email us at the address below. Because we don't know who you are, please include your device model and the approximate date you installed the App so we can help.
+- In Idle Cricket Academy, you can withdraw or change ad consent from the App's privacy options, and reset or delete your Advertising ID in Android settings.
+- To ask us to delete analytics data linked to your install, email us at the address below. Because we don't know who you are, please include the game's name, your device model and the approximate date you installed it so we can help.
 
 ## Children's privacy
-The App is not directed at children under 13, and we do not knowingly collect personal information from children. If you believe a child has given us personal information, contact us and we will delete it.
+The Apps are not directed at children under 13, and we do not knowingly collect personal information from children. If you believe a child has given us personal information, contact us and we will delete it.
 
 ## Changes to this policy
 We may update this policy from time to time. Changes will be posted on this page with a new effective date.

@@ -11,6 +11,7 @@ Mobile games for Android.
 | Game | Privacy policy |
 |---|---|
 | Idle Cricket Academy | [Privacy policy](/privacy/) |
+| Splash Street: Holi Defense | [Privacy policy](/privacy/) |
 
 ## Contact
 
